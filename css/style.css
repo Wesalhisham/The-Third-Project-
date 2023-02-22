@@ -1,0 +1,27 @@
+body{
+    overflow-x: hidden;
+    background-image: url("../imges/Bar and Circle Suspension Light Modernist Metal Dining Room LED Island Lighting Ideas in Black_White - Black.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 1475px;   
+}
+.s---space{
+    background-color: aliceblue;
+}
+.s-space , .s--space{
+    width: 100%;
+    height: 40vh;
+}
+i{
+    font-size: 35px;
+}
+.line{
+    width: 100%;
+    height: 2vh;
+}
+.navbar{
+    opacity: 0.8;
+}
+.nav-item:hover{
+    text-shadow:5px 5px 20px white;
+}
